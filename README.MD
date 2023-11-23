@@ -1,3 +1,7 @@
+# Use:
+# https://github.com/hansalemaos/usefuladb
+# https://github.com/hansalemaos/usefuladbplus
+
 # Use Pandas for a better ADB automation
 #### Tested  with Windows 10 / Bluestacks 5 / Python 3.9.13
 
